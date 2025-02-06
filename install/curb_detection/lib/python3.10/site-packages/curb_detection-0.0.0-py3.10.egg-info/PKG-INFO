@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: curb_detection
+Version: 0.0.0
+Summary: ROS2 package for curb detection
+Maintainer: Tianchen Wang
+Maintainer-email: tcgiantmonkey@gmail.com
+License: TODO: License declaration
+Requires-Dist: setuptools
+Requires-Dist: rclpy
+Requires-Dist: sensor_msgs
+Requires-Dist: numpy
+Requires-Dist: pclpy

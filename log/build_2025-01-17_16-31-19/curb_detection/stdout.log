@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/curb_detection/curb_detection.egg-info/PKG-INFO
+writing dependency_links to ../../build/curb_detection/curb_detection.egg-info/dependency_links.txt
+writing entry points to ../../build/curb_detection/curb_detection.egg-info/entry_points.txt
+writing requirements to ../../build/curb_detection/curb_detection.egg-info/requires.txt
+writing top-level names to ../../build/curb_detection/curb_detection.egg-info/top_level.txt
+reading manifest file '../../build/curb_detection/curb_detection.egg-info/SOURCES.txt'
+writing manifest file '../../build/curb_detection/curb_detection.egg-info/SOURCES.txt'
+running build
+running build_py
+copying curb_detection/curb_detector.py -> /home/lance/work_dir/curb_detection/build/curb_detection/build/lib/curb_detection
+running install
+running install_lib
+copying /home/lance/work_dir/curb_detection/build/curb_detection/build/lib/curb_detection/curb_detector.py -> /home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection
+byte-compiling /home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection/curb_detector.py to curb_detector.cpython-310.pyc
+running install_egg_info
+removing '/home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/curb_detection/curb_detection.egg-info to /home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection-0.0.0-py3.10.egg-info
+running install_scripts
+Installing curb_detector script to /home/lance/work_dir/curb_detection/install/curb_detection/lib/curb_detection
+writing list of installed files to '/home/lance/work_dir/curb_detection/build/curb_detection/install.log'

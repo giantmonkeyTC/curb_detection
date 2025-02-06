@@ -1,0 +1,5 @@
+  File "/home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection/curb_detector.py", line 20
+    point_cloud_numpy = np.array(list(pc2.read_points(msg, field_names=("x", "y", "z"))), dtype=np.float32)        print(point_cloud_numpy)
+                                                                                                                   ^^^^^
+SyntaxError: invalid syntax
+

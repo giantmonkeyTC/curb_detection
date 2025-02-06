@@ -1,0 +1,5 @@
+  File "/home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection/curb_detector.py", line 21
+    print(point_cloud_numpy）
+                           ^
+SyntaxError: invalid character '）' (U+FF09)
+

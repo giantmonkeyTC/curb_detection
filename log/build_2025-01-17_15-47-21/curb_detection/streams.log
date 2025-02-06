@@ -1,0 +1,23 @@
+[0.553s] Invoking command in '/home/lance/work_dir/curb_detection/src/curb_detection': CONDA_PROMPT_MODIFIER=(ros2_curb) PYTHONPATH=/home/lance/work_dir/curb_detection/build/curb_detection/prefix_override:/home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/curb_detection build --build-base /home/lance/work_dir/curb_detection/build/curb_detection/build install --record /home/lance/work_dir/curb_detection/build/curb_detection/install.log --single-version-externally-managed
+[0.697s] running egg_info
+[0.707s] writing ../../build/curb_detection/curb_detection.egg-info/PKG-INFO
+[0.708s] writing dependency_links to ../../build/curb_detection/curb_detection.egg-info/dependency_links.txt
+[0.708s] writing entry points to ../../build/curb_detection/curb_detection.egg-info/entry_points.txt
+[0.708s] writing requirements to ../../build/curb_detection/curb_detection.egg-info/requires.txt
+[0.708s] writing top-level names to ../../build/curb_detection/curb_detection.egg-info/top_level.txt
+[0.730s] reading manifest file '../../build/curb_detection/curb_detection.egg-info/SOURCES.txt'
+[0.731s] writing manifest file '../../build/curb_detection/curb_detection.egg-info/SOURCES.txt'
+[0.731s] running build
+[0.731s] running build_py
+[0.731s] copying curb_detection/curb_detector.py -> /home/lance/work_dir/curb_detection/build/curb_detection/build/lib/curb_detection
+[0.731s] running install
+[0.734s] running install_lib
+[0.745s] copying /home/lance/work_dir/curb_detection/build/curb_detection/build/lib/curb_detection/curb_detector.py -> /home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection
+[0.745s] byte-compiling /home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection/curb_detector.py to curb_detector.cpython-310.pyc
+[0.746s] running install_egg_info
+[0.757s] removing '/home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection-0.0.0-py3.10.egg-info' (and everything under it)
+[0.758s] Copying ../../build/curb_detection/curb_detection.egg-info to /home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages/curb_detection-0.0.0-py3.10.egg-info
+[0.758s] running install_scripts
+[0.851s] Installing curb_detector script to /home/lance/work_dir/curb_detection/install/curb_detection/lib/curb_detection
+[0.851s] writing list of installed files to '/home/lance/work_dir/curb_detection/build/curb_detection/install.log'
+[0.867s] Invoked command in '/home/lance/work_dir/curb_detection/src/curb_detection' returned '0': CONDA_PROMPT_MODIFIER=(ros2_curb) PYTHONPATH=/home/lance/work_dir/curb_detection/build/curb_detection/prefix_override:/home/lance/work_dir/curb_detection/install/curb_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/curb_detection build --build-base /home/lance/work_dir/curb_detection/build/curb_detection/build install --record /home/lance/work_dir/curb_detection/build/curb_detection/install.log --single-version-externally-managed
